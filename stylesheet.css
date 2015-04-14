@@ -1,0 +1,11 @@
+body {
+
+	background-image: url("pigguitar.jpg");
+}
+#nice {
+	text-align: center;
+	font-size: 1000;
+	color:red;
+	opacity: .4;
+
+}

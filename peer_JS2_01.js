@@ -94,5 +94,6 @@ var whatever = function(val){
 value = whatever(value);
 
 console.log(value);
+document.getElementById("nice").innerHTML = value;
 
 
